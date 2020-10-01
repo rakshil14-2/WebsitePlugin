@@ -10,3 +10,9 @@ go to WebsitePlugin\src\me\rhys19\websiteplugin
 and open the .java file in eclipse neon
 then edit the line: sender.sendMessage("Exoticcraft.sytes.net/xenforo/");
 edit the quotes where it says exoticcraft.sytes.net/xenforo/ to your website!
+
+
+Secondary option for editing can be using Netbeans as it ia easy
+and also GUI can be build easily
+and also you can use database technology to link your data with the server
+using JDBC connector
